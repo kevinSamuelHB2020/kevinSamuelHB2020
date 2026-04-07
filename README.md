@@ -27,24 +27,20 @@ Passionate about developing civil engineering projects with a practical, results
 <div align="center">
 
 ### CAD y Modelado 3D
-<img src="https://cdn.worldvectorlogo.com/logos/autocad-2.svg" width="70" alt="AutoCAD"> 
-<img src="https://civilsurveysolutions.com.au/wp-content/uploads/autodesk-civil-3d-product-icon-social-400-1.png" width="70" alt="Civil 3D"> 
-<img src="https://www.sonda-mco.com/assets/images/badges/autodesk-revit-product-icon.svg" width="70" alt="Revit"> 
-<img src="https://seystic.com/wp-content/uploads/2017/11/autodesk-robot-structural-analysis-professional-small-social-400.png" width="70" alt="Robot Structural"> 
-<img src="https://www.sketchupaustralia.com.au/wp-content/uploads/SketchUp-Mark-1200pxl-RGB.png" width="70" alt="SketchUp"> 
-<img src="https://sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img,w_100,h_110/https://www.sketchupaustralia.com.au/wp-content/uploads/LayOut-2020-Mark-RGB-1200pxl.png" width="70" alt="Layout"> 
-<img src="https://static.wikia.nocookie.net/logopedia/images/6/64/Lumion_2016.svg/revision/latest?cb=20230506202323" width="70" alt="Lumion">
-
-**AutoCAD**   **Civil 3D**   **Revit**   **Robot Structural**   **SketchUp**   **Layout**   **Lumion**
+<img src="https://cdn.worldvectorlogo.com/logos/autocad-2.svg" width="50" alt="AutoCAD"> 
+<img src="https://civilsurveysolutions.com.au/wp-content/uploads/autodesk-civil-3d-product-icon-social-400-1.png" width="50" alt="Civil 3D"> 
+<img src="https://www.sonda-mco.com/assets/images/badges/autodesk-revit-product-icon.svg" width="50" alt="Revit"> 
+<img src="https://www.sketchupaustralia.com.au/wp-content/uploads/SketchUp-Mark-1200pxl-RGB.png" width="50" alt="SketchUp"> 
+<img src="https://sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img,w_100,h_110/https://www.sketchupaustralia.com.au/wp-content/uploads/LayOut-2020-Mark-RGB-1200pxl.png" width="50" alt="Layout"> 
+<img src="https://static.wikia.nocookie.net/logopedia/images/6/64/Lumion_2016.svg/revision/latest?cb=20230506202323" width="50" alt="Lumion">
 
 ---
 
 ### Análisis Estructural y Presupuestos
-📊   🐬   <img src="https://www.csiamerica.com/images/products/etabs/etabs-logo.png" width="110" alt="ETABS">   
-<img src="https://getvectorlogo.com/wp-content/uploads/2019/05/sap2000-vector-logo.png" width="110" alt="SAP2000">   🛡️
-
-**S10 Presupuestos**   **Delphin Xpress**   **ETABS**   **SAP2000**   **SAFE**
-
+<img src="https://hlc.so/wp-content/uploads/2023/10/etabs.png" width="50" alt="ETABS">   
+<img src="https://mfaisalkhan.com/wp-content/uploads/2026/01/2f3de46b54ab451699775ec4b107887a-.webp" width="50" alt="SAP2000">
+<img src="https://seystic.com/wp-content/uploads/2017/11/autodesk-robot-structural-analysis-professional-small-social-400.png" width="50" alt="Robot Structural">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRstVNKkVvUXQAknWnCVlbX6q_-YdORKgwB1Q&s" width="50" alt="S10">
 ---
 
 ### Ofimática y Gestión
