@@ -47,6 +47,7 @@ Passionate about developing civil engineering projects with a practical, results
 ### Análisis Estructural y Presupuestos
 <img src="https://hlc.so/wp-content/uploads/2023/10/etabs.png" width="50" alt="ETABS">
 <img src="https://mfaisalkhan.com/wp-content/uploads/2026/01/2f3de46b54ab451699775ec4b107887a-.webp" width="50" alt="SAP2000">
+<img src="https://usoftly.ir/wp-content/uploads/2022/02/CSI-SAFE-Post-Tensioning-20.0.0-Build-1701-x64.png" width="50" alt="SAFE">
 <img src="https://seystic.com/wp-content/uploads/2017/11/autodesk-robot-structural-analysis-professional-small-social-400.png" width="50" alt="Robot Structural">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRstVNKkVvUXQAknWnCVlbX6q_-YdORKgwB1Q&s" width="50" alt="S10">
 <img src="https://hotmart.s3.amazonaws.com/product_pictures/c550c4b5-8bae-4b86-aca8-9161024e80bf/images10.png" width="100" alt="delphinexpress360">
@@ -64,16 +65,17 @@ Passionate about developing civil engineering projects with a practical, results
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/3840px-QGIS_logo_new.svg.png" width="60" alt="Qgis">
 
 ### Programación y Otros
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png" width="80" alt="Python">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1280px-Adobe_Premiere_Pro_CC_icon.svg.png" width="80" alt="Adobe Premiere">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Adobe_PDF_icon.svg/1280px-Adobe_PDF_icon.svg.png" width="80" alt="Adobe PDF">
-
-**Mathcad**   **Python**   **Markdown**   **HTML**   **Adobe Premiere**   **Adobe PDF**
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png" width="50" alt="Python">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1280px-HTML5_logo_and_wordmark.svg.png" width="45" alt="HTML">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1280px-Jupyter_logo.svg.png" width="40" alt="jupyter">
+<img src="https://w7.pngwing.com/pngs/767/740/png-transparent-markdown-computer-icons-html-python-markdowns-angle-text-rectangle.png" width="70" alt="Marckdown">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1280px-Adobe_Premiere_Pro_CC_icon.svg.png" width="50" alt="Adobe Premiere">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/960px-Adobe_Photoshop_CC_icon.svg.png" width="50" alt="Adobe photoshop">
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-adobe-acrobat-pro-icon-svg-download-png-2132656.png" width="50" alt="Adobe PDF">
 
 </div>
 
 ---
-
 
 
 ## 🎯 FOCUS
