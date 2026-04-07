@@ -22,6 +22,16 @@ Passionate about developing civil engineering projects with a practical, results
 
 ## 🧠 TECHNICAL SKILLS
 
+### 🛠️ Technical
+
+- Strong experience in **technical project documentation (expedientes técnicos)**  
+- Development of **engineering drawings and modeling**  
+- **Quantity takeoffs and cost estimation**  
+- Preparation of **technical specifications**  
+- Project planning with **construction schedules**  
+- **Structural analysis and civil engineering design**  
+
+---
 ### 💻 Software
 
 <div align="center">
@@ -61,18 +71,10 @@ Passionate about developing civil engineering projects with a practical, results
 **Mathcad**   **Python**   **Markdown**   **HTML**   **Adobe Premiere**   **Adobe PDF**
 
 </div>
----
-
-### 🛠️ Technical
-
-- Strong experience in **technical project documentation (expedientes técnicos)**  
-- Development of **engineering drawings**  
-- **Quantity takeoffs and cost estimation**  
-- Preparation of **technical specifications**  
-- Project planning with **construction schedules**  
-- **Structural analysis and civil engineering design**  
 
 ---
+
+
 
 ## 🎯 FOCUS
 
