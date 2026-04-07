@@ -44,33 +44,18 @@ Passionate about developing civil engineering projects with a practical, results
 ### Ofimática y Gestión
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt__gdZwhO3aSPCNy6b8HwnR5E5AARVCA1wQ&s" width="50" alt="exceladvancedVBA">
 <img src="https://www.aprender21.com/images/colaboradores/vba.png" width="50" alt="vba">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Microsoft_Project_%282019%E2%80%93present%29.svg/960px-Microsoft_Project_%282019%E2%80%93present%29.svg.png" width="50" alt="MS Project">   
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Microsoft_Project_%282019%E2%80%93present%29.svg/960px-Microsoft_Project_%282019%E2%80%93present%29.svg.png" width="50" alt="MS Project">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Microsoft_Office_Word_%282019%E2%80%932025%29.svg/1280px-Microsoft_Office_Word_%282019%E2%80%932025%29.svg.png" width="50" alt="Word">
 <img src="https://w7.pngwing.com/pngs/443/377/png-transparent-microsoft-office-office365-powerpoint-logos-microsoft-office-icon-thumbnail.png" width="50" alt="PowerPoint">
 
-**Advanced Excel (VBA)**   **MS Project**   **Word**   **PowerPoint**
-
----
-
-### Diseño y Documentación
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Adobe_PDF_icon.svg/1280px-Adobe_PDF_icon.svg.png" width="80" alt="Adobe PDF">   
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Adobe_Photoshop_CC_icon.svg/1280px-Adobe_Photoshop_CC_icon.svg.png" width="80" alt="Photoshop">
-
-**Adobe PDF**   **Photoshop**
-
----
-
 ### GIS y Cartografía
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/ArcGIS_logo.svg/1280px-ArcGIS_logo.svg.png" width="110" alt="ArcGIS">   
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/ArcGIS_logo.svg/1280px-ArcGIS_logo.svg.png" width="110" alt="ArcGIS">
-
-**ArcMap**   **ArcGIS**
-
----
+<img src="https://raul-deatcu.github.io/resources/icons/arcmapICONfull.png" width="40" alt="Arcmap">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/ArcGIS_globe.png/250px-ArcGIS_globe.png" width="60" alt="ArcGIS">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/3840px-QGIS_logo_new.svg.png" width="60" alt="Qgis">
 
 ### Programación y Otros
-📐   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png" width="80" alt="Python">   📝   🌐   
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1280px-Adobe_Premiere_Pro_CC_icon.svg.png" width="80" alt="Adobe Premiere">   
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png" width="80" alt="Python">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1280px-Adobe_Premiere_Pro_CC_icon.svg.png" width="80" alt="Adobe Premiere">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Adobe_PDF_icon.svg/1280px-Adobe_PDF_icon.svg.png" width="80" alt="Adobe PDF">
 
 **Mathcad**   **Python**   **Markdown**   **HTML**   **Adobe Premiere**   **Adobe PDF**
