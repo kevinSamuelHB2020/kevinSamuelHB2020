@@ -34,14 +34,12 @@ Passionate about developing civil engineering projects with a practical, results
 <img src="https://sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img,w_100,h_110/https://www.sketchupaustralia.com.au/wp-content/uploads/LayOut-2020-Mark-RGB-1200pxl.png" width="50" alt="Layout"> 
 <img src="https://static.wikia.nocookie.net/logopedia/images/6/64/Lumion_2016.svg/revision/latest?cb=20230506202323" width="50" alt="Lumion">
 
----
-
 ### Análisis Estructural y Presupuestos
 <img src="https://hlc.so/wp-content/uploads/2023/10/etabs.png" width="50" alt="ETABS">
 <img src="https://mfaisalkhan.com/wp-content/uploads/2026/01/2f3de46b54ab451699775ec4b107887a-.webp" width="50" alt="SAP2000">
 <img src="https://seystic.com/wp-content/uploads/2017/11/autodesk-robot-structural-analysis-professional-small-social-400.png" width="50" alt="Robot Structural">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRstVNKkVvUXQAknWnCVlbX6q_-YdORKgwB1Q&s" width="50" alt="S10">
----
+<img src="https://hotmart.s3.amazonaws.com/product_pictures/c550c4b5-8bae-4b86-aca8-9161024e80bf/images10.png" width="50" alt="delphinexpress360">
 
 ### Ofimática y Gestión
 📗   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Microsoft_Project_Logo_%282019%29.svg/1280px-Microsoft_Project_Logo_%282019%29.svg.png" width="110" alt="MS Project">   
