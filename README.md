@@ -37,7 +37,7 @@ Passionate about developing civil engineering projects with a practical, results
 ---
 
 ### Análisis Estructural y Presupuestos
-<img src="https://hlc.so/wp-content/uploads/2023/10/etabs.png" width="50" alt="ETABS">   
+<img src="https://hlc.so/wp-content/uploads/2023/10/etabs.png" width="50" alt="ETABS">
 <img src="https://mfaisalkhan.com/wp-content/uploads/2026/01/2f3de46b54ab451699775ec4b107887a-.webp" width="50" alt="SAP2000">
 <img src="https://seystic.com/wp-content/uploads/2017/11/autodesk-robot-structural-analysis-professional-small-social-400.png" width="50" alt="Robot Structural">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRstVNKkVvUXQAknWnCVlbX6q_-YdORKgwB1Q&s" width="50" alt="S10">
