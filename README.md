@@ -52,9 +52,10 @@ Passionate about developing civil engineering projects with a practical, results
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRstVNKkVvUXQAknWnCVlbX6q_-YdORKgwB1Q&s" width="50" alt="S10">
 <img src="https://hotmart.s3.amazonaws.com/product_pictures/c550c4b5-8bae-4b86-aca8-9161024e80bf/images10.png" width="100" alt="delphinexpress360">
 
-### Ofimática y Gestión
+### Ofimática, Cálculo y Gestión
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt__gdZwhO3aSPCNy6b8HwnR5E5AARVCA1wQ&s" width="50" alt="exceladvancedVBA">
 <img src="https://www.aprender21.com/images/colaboradores/vba.png" width="50" alt="vba">
+<img src="https://taiwebs.com/upload/icons/ptc-mathcad-prime100-100.png" width="50" alt="mathcad">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Microsoft_Project_%282019%E2%80%93present%29.svg/960px-Microsoft_Project_%282019%E2%80%93present%29.svg.png" width="50" alt="MS Project">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Microsoft_Office_Word_%282019%E2%80%932025%29.svg/1280px-Microsoft_Office_Word_%282019%E2%80%932025%29.svg.png" width="50" alt="Word">
 <img src="https://w7.pngwing.com/pngs/443/377/png-transparent-microsoft-office-office365-powerpoint-logos-microsoft-office-icon-thumbnail.png" width="50" alt="PowerPoint">
