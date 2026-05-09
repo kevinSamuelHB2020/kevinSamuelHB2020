@@ -5,7 +5,7 @@
 
 # 👷‍♂️ ABOUT ME!
 
-## 👋 Hi, I'm Kevin Hilasaca
+## 👋 Hi, I'm Kevin Samuel Hilasaca Barrios
 
 - 📍 Based in **Puno, Peru**  
 - 🎓 Civil Engineering student at *Peruvian Union University*  
